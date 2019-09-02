@@ -6,5 +6,5 @@ import banglc.pojo.User;
 
 @Repository
 public interface UserDAO extends BaseDAO<User> {
-
+    //edit by xzh1998
 }
